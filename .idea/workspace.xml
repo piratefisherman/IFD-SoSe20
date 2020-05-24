@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="865140ee-b9e2-401c-8efa-b00d979672ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/files/page_1/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/files/page_1/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/files/page_1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/files/page_1/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/images/page_1/main_u1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/images/page_1/main_u1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/images/page_1/u314.svg" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/images/page_1/u314.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/images/page_1/u39.svg" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/images/page_1/u39.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/images/page_1/u4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/images/page_1/u4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/images/page_1/u44.svg" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/images/page_1/u44.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/images/page_1/u44_mouseOver.svg" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/images/page_1/u44_mouseOver.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/images/page_1/u44_selected.svg" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/images/page_1/u44_selected.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/images/page_1/u4_mouseOver.svg" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/images/page_1/u4_mouseOver.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_03/images/page_1/u4_selected.svg" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_03/images/page_1/u4_selected.svg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +27,12 @@
     <session id="-56762860">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.254" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,26 +65,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercise_02/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise_02/styles/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -106,6 +98,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,7 +127,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,11 +168,12 @@
       <workItem from="1589119724097" duration="3003000" />
       <workItem from="1589444027446" duration="3000" />
       <workItem from="1589710896773" duration="3364000" />
+      <workItem from="1590333426054" duration="153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7242000" />
+    <option name="totallyTimeSpent" value="7395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="22" width="1228" height="778" extended-state="0" />
@@ -241,17 +234,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercise_02/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercise_02/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise_02/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
         </state>
       </provider>
     </entry>
