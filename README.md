@@ -5,3 +5,4 @@
 [Aufgabe 02.1 - Prototyping Tools](https://piratefisherman.github.io/IFD-SoSe20/exercise_02.1_figma/)<br>
 [Aufgabe 02.2 - Lofid Prototyping](https://piratefisherman.github.io/IFD-SoSe20/exercise_02.2/)<br>
 [Aufgabe 03 - GUI Operations](https://piratefisherman.github.io/IFD-SoSe20/exercise_03)<br>
+[Aufgabe 04 - VUI Concept](https://piratefisherman.github.io/IFD-SoSe20/exercise_04)<br>
