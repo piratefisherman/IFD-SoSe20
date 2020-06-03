@@ -12,9 +12,9 @@ Das Dashboard für die letzten 24 Stunden:
 * Einen Downloadbutton, über den die neusten Zahlen entweder als Excel-Datei oder als Diagramm heruntergeladen werden können.
 
 ## Compare
-![Bild der Compare-Funktion](/img/compare.png)
-
 In der Compare-Ansicht können Daten auf einfache Weise grafisch verglichen werden.
+
+![Bild der Compare-Funktion](/img/compare.png)
 
 * Zeitintervall wählen
 * Datum einstellen
