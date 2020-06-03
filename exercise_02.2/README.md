@@ -1,15 +1,3 @@
-<!doctype html>
-
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>Yannis Friedrich - Interface</title>
-    <meta name="author" content="Yannis Friedrich">
-    <meta name="keywords" content="UX, Interface, Design, User Journey,">
-    <meta name="description" content="Excercises for Interface Design">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/style.css?v=1.0">
-</head>
 <body>
 <div class="aufgabe">
 <H1> Konzept Aufgabe #02</H1>
@@ -50,4 +38,3 @@
 </div>
 <script src=""></script>
 </body>
-</html>
