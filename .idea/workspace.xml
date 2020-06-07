@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="865140ee-b9e2-401c-8efa-b00d979672ec" name="Default Changelist" comment="" />
+    <list default="true" id="865140ee-b9e2-401c-8efa-b00d979672ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise_05/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_01/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_01/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +73,8 @@
       <workItem from="1590333426054" duration="153000" />
       <workItem from="1590333789012" duration="220000" />
       <workItem from="1590855068333" duration="3000" />
-      <workItem from="1591173885839" duration="1985000" />
+      <workItem from="1591173885839" duration="2489000" />
+      <workItem from="1591524906586" duration="696000" />
     </task>
     <servers />
   </component>
@@ -85,5 +91,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
