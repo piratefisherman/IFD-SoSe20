@@ -5,20 +5,20 @@ DIe folgenden Bilder zeigen die zwei Versuche.
 
 ## Versuch mit Papier
 
-![Bild von Papierversuch 1](/img/paper/paper_1.jpg)
-![Bild von Papierversuch 2](/img/paper/paper_2.jpg)
-![Bild von Papierversuch 3](/img/paper/paper_3.jpg)
-![Bild von Papierversuch 4](/img/paper/paper_4.jpg)
-![Bild von Papierversuch 5](/img/paper/paper_5.jpg)
-![Bild von Papierversuch 6](/img/paper/paper_6.jpg)
-![Bild von Papierversuch 7](/img/paper/paper_7.jpg)
+![Bild von Papierversuch 1](img/paper/paper_1.jpg)
+![Bild von Papierversuch 2](img/paper/paper_2.jpg)
+![Bild von Papierversuch 3](img/paper/paper_3.jpg)
+![Bild von Papierversuch 4](img/paper/paper_4.jpg)
+![Bild von Papierversuch 5](img/paper/paper_5.jpg)
+![Bild von Papierversuch 6](img/paper/paper_6.jpg)
+![Bild von Papierversuch 7](img/paper/paper_7.jpg)
 
 ## Versuch mit Pappe
 
-![Bild von Pappeversuch 1](/img/cardboard/0.jpg)
-![Bild von Pappeversuch 2](/img/cardboard/1.jpg)
-![Bild von Pappeversuch 3](/img/cardboard/2.jpg)
-![Bild von Pappeversuch 4](/img/cardboard/3.jpg)
-![Bild von Pappeversuch 5](/img/cardboard/4.jpg)
-![Bild von Pappeversuch 6](/img/cardboard/5.jpg)
-![Bild von Pappeversuch 7](/img/cardboard/6.jpg)
+![Bild von Pappeversuch 1](img/cardboard/0.jpg)
+![Bild von Pappeversuch 2](img/cardboard/1.jpg)
+![Bild von Pappeversuch 3](img/cardboard/2.jpg)
+![Bild von Pappeversuch 4](img/cardboard/3.jpg)
+![Bild von Pappeversuch 5](img/cardboard/4.jpg)
+![Bild von Pappeversuch 6](img/cardboard/5.jpg)
+![Bild von Pappeversuch 7](img/cardboard/6.jpg)
