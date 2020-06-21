@@ -2,12 +2,15 @@
 
 ## Storyboard
 
-Das folgende Storyboard zeigt wie ein 360 grad Video um weitere Ebenen ergänzt werden könnte um dieses Format interessanter zu gestalten.
+Das folgende Storyboard zeigt wie ein 360-Grad-Video um weitere Ebenen ergänzt werden könnte um ein interessantes Format daraus zu entwickeln.
 ![Bild von Storyboard](Storyboard_VR_Anwendung.jpg)
 
 ## Video Prototyp
 
-![Bild von Storyboard](Prototyp_VR_Anwendung.mp4)
+<video width="320" height="240" controls>
+  <source src="Storyboard_VR_Anwendung.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Idee für eine weitere Iteration
 
