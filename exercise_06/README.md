@@ -32,3 +32,7 @@ DIe folgenden Bilder zeigen die zwei Versuche.
 ![Bild von Pappeversuch 5](img/cardboard/4.jpg)
 ![Bild von Pappeversuch 6](img/cardboard/5.jpg)
 ![Bild von Pappeversuch 7](img/cardboard/6.jpg)
+
+## Eine weitere Iteration des Prototypen
+![Brille](img/iteration/brille.png)
+![Person mit Brille](img/iteration/person_mit_brille.png)
