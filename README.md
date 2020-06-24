@@ -6,7 +6,7 @@
 [Aufgabe 02.2 - Lofid Prototyping](https://piratefisherman.github.io/IFD-SoSe20/exercise_02.2/)<br>
 [Aufgabe 03 - GUI Operations](https://piratefisherman.github.io/IFD-SoSe20/exercise_03)<br>
 [Aufgabe 04 - VUI Concept](https://piratefisherman.github.io/IFD-SoSe20/exercise_04)<br>
-[Aufgabe 05 - VUI Prototyp](https://piratefisherman.github.io/IFD-SoSe20/exercise_05/VUI/sound_origin.html)<br>
+[Aufgabe 05 - VUI Prototyp](https://piratefisherman.github.io/IFD-SoSe20/exercise_05)<br>
 [Aufgabe 06 - VR-Brille](https://piratefisherman.github.io/IFD-SoSe20/exercise_06)<br>
 [Aufgabe 07 - VR Konzept](https://piratefisherman.github.io/IFD-SoSe20/exercise_07)<br>
 
