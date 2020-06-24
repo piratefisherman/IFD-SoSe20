@@ -7,11 +7,7 @@ Das folgende Storyboard zeigt wie ein 360-Grad-Video um weitere Ebenen ergänzt 
 
 ## Video Prototyp
 
-<video width="320" height="240" controls>
-  <source src="Storyboard_VR_Anwendung.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[Video](https://piratefisherman.github.io/IFD-SoSe20/exercise_07/Storyboard_VR_Anwendung.mp4)
 ## Idee für eine weitere Iteration
 
 Nachdem ich das Video schon fertiggestellt hatte, kam mir noch eine weitere Idee. Es könnte spannend sein, wenn die Nutzer der Anwendung die Notitzzettel in der Anwednung Up- oder Downvoten könnten. Auf Basis dessen bestünde die Möglichkeit ein Ranking zu erstellen, aus dem ersichtlich wird, welche Aussagen die größte Resonanz erhalten.
