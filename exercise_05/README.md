@@ -1,5 +1,5 @@
 # Prototyp eines Voice User Interface
-[Zur Anwendung]("VUI/sound_origin.html")
-[Screen Recording]("screen_recording.mp4")
+[Zur Anwendung](https://piratefisherman.github.io/IFD-SoSe20/exercise_05/VUI/sound_origin.html)</br>
+[Screen Recording](https://piratefisherman.github.io/IFD-SoSe20/exercise_05/screen_recording.mp4)
 
 
