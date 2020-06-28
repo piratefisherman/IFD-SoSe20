@@ -9,4 +9,5 @@
 [Aufgabe 05 - VUI Prototyp](https://piratefisherman.github.io/IFD-SoSe20/exercise_05)<br>
 [Aufgabe 06 - VR-Brille](https://piratefisherman.github.io/IFD-SoSe20/exercise_06)<br>
 [Aufgabe 07 - VR Konzept](https://piratefisherman.github.io/IFD-SoSe20/exercise_07)<br>
+[Aufgabe 08 - VR Prototyp](https://piratefisherman.github.io/IFD-SoSe20/exercise_08)<br>
 
