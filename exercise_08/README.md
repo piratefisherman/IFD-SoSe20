@@ -1,7 +1,7 @@
 # Prototyp: Immersive Gesprächsrunde mit virtuellen Post-its
 ## Die Idee
 Meine Idee war es, das Post-it-Feature aus der letzten Aufgabe weiterzuentwickeln. Dafür erstellte ich ein Post-it mit Adobe Photoshop.
-##Herangehensweise
+## Herangehensweise
 ### Getestete Tools
 - Beigelegte Webanwendung
 - Torch App
